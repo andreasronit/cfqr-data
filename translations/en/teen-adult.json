@@ -1,7 +1,7 @@
 {
   "qst-teen-adult": "CFQ-R Teen Adult",
   "qst-teen-adult-description": "Adolescents and Adults (Patients 14 Years Old and Older)",
-  "qst-teen-adult-introduction": "Understanding the impact of your illness and treatments on your everyday life can help your healthcare team keep track of your health and adjust your treatments. For this reason, this questionnaire was specifically developed for people who have cystic fibrosis. Thank you for your willingness to complete this form."  
+  "qst-teen-adult-introduction": "Understanding the impact of your illness and treatments on your everyday life can help your healthcare team keep track of your health and adjust your treatments. For this reason, this questionnaire was specifically developed for people who have cystic fibrosis. Thank you for your willingness to complete this form.",  
   "qst-teen-adult-instructions": "The following questions are about the current state of your health, as you perceive it. This information will allow us to better understand how you feel in your everyday life. Please answer all the questions. There are no right or wrong answers! If you are not sure how to answer, choose the response that seems closest to your situation.",
   "qst-teen-adult-section1-demographic": "Demographics",
   "qst-teen-adult-section-demographic-introduction": "Please fill-in the information or check the box indicating your answer.",
@@ -134,7 +134,7 @@
   "qst-teen-adult-answer-38-b": "Often",
   "qst-teen-adult-answer-38-c": "Sometimes",
   "qst-teen-adult-answer-38-d": "Never", 
-  "qst-teen-adult-section-symptoms": "Symptom Difficulties"
+  "qst-teen-adult-section-symptoms": "Symptom Difficulties",
   "qst-teen-adult-group-d": "Indicate how you have been feeling during the past two weeks.",
   "qst-teen-adult-answer-d-a": "A great deal",
   "qst-teen-adult-answer-d-b": "Somewhat",
